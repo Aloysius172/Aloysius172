@@ -1,6 +1,7 @@
+<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="aloysius172" />
 <h1 align="center">Greetings 👋, I'm Aloysius Ekezie(Alo)</h1>
 <h3 align="center">A software engineer from The Bronx, New York</h3>
-<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="aloysius172" />
+
 
 
 
